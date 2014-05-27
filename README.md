@@ -4,7 +4,7 @@ hospital-charges
 What is this?
 -------------
 
-Tables of what hospitals charged Medicare for specific procedures, broken out by states in which DFM has newspapers.
+Tables of what hospitals charged Medicare for specific procedures, broken out by states in which DFM has newspapers. This data from Medicare was released in May, 2013.
 
 Credits
 ---------
